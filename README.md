@@ -6,8 +6,9 @@ How much your unpaid work worth? Do you do more unpaid work than your partner?
 
 To help you better understand how much of your time goes to unpaid labor and how much money that represents, this calculator uses the minimum wage in your country as the base for the working hours.
 
-by [agcdtmr](https://github.com/agcdtmr)
-by [dadaniela](https://github.com/dadaniela)
+## Authors
+- [agcdtmr](https://github.com/agcdtmr)
+- [dadaniela](https://github.com/dadaniela)
 
 ## What we've learned so far:
 - Decision-making and prioritizing: From the start of this project, we seek commonalities or shared interests. At first, we wanted to work with APIs that could help was create a CO2 calculator, but because we were spending a lot of time digging into big sets of data and how we could actually use them, we decided we were not ready for a project so big. The next idea was the unpaid work calculator based on the topic of a book called Invisible Woman by Caroline Criado-Perez that we both have read recently.
