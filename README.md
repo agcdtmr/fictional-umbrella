@@ -1,5 +1,5 @@
-<p align="center"><img width=40% src="https://github.com/agcdtmr/fictional-umbrella/blob/main/images/home-desktop.png"></p>
-<p align="center"><img width=40% src="https://github.com/agcdtmr/fictional-umbrella/blob/main/images/home-mobile.png"></p>
+<p align="center"><img width=20% src="https://github.com/agcdtmr/fictional-umbrella/blob/main/images/home-desktop.png"></p>
+<p align="center"><img width=20% src="https://github.com/agcdtmr/fictional-umbrella/blob/main/images/home-mobile.png"></p>
 
 
 ## Description
