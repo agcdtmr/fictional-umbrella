@@ -67,8 +67,8 @@ by [dadaniela](https://github.com/dadaniela)
 - Because the majority of the unpaid work is done by women, they often have to combine paid and unpaid work, enduring longer hours when compared to men. It’s also common that unpaid work gets in the way of paid labor, which contributes to the gender pay gap we see in the world today
 - Another impact of unpaid work in the paid working world is the precarity of certain professions
 
-## How to run
+<!-- ## How to run -->
 
-## Files:
+<!-- ## Files: -->
 
-## Here are some ideas for additional features:
+<!-- ## Here are some ideas for additional features: -->
