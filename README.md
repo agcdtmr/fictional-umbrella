@@ -24,6 +24,7 @@ by [dadaniela](https://github.com/dadaniela)
 ## To Do / To Fix:
 
 ### Requirement Analysis
+
 - [x] Created a [GitHub project](https://github.com/users/agcdtmr/projects/4) to manage the website versions
 - [ ] Mobile-first app
 - [ ] Find a free deployment method
