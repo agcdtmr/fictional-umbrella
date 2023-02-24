@@ -24,42 +24,42 @@ by [dadaniela](https://github.com/dadaniela)
 ## To Do / To Fix:
 
 ### Requirement Analysis
-✅ Created a [GitHub project](https://github.com/users/agcdtmr/projects/4) to manage the website versions
-[ ] Mobile-first app
-[ ] Find a free deployment method
-[ ] What languages we want to use: HTML, CSS, Vanilla JS
-[ ] Tools we use: VSCode, GitHub, Notion, Google Meet, 
+- [x] Created a [GitHub project](https://github.com/users/agcdtmr/projects/4) to manage the website versions
+- [ ] Mobile-first app
+- [ ] Find a free deployment method
+- [ ] What languages we want to use: HTML, CSS, Vanilla JS
+- [ ] Tools we use: VSCode, GitHub, Notion, Google Meet, 
 
 
 ### Planning
-✅ Found a topic we wanted to work with
-✅ Found useful content online
-✅ Gathered information and decided the direction of the project
-✅ We decided to meet every Friday from January to February for the planning.
-[ ] Create the form flow
-[ ] We decided to create a form for the calculator, where the users can manually input their hourly salaries.  
+- [x] Found a topic we wanted to work with
+- [x] Found useful content online
+- [x] Gathered information and decided the direction of the project
+- [x] We decided to meet every Friday from January to February for the planning.
+- [ ] Create the form flow
+- [ ] We decided to create a form for the calculator, where the users can manually input their hourly salaries.  
 
 
 
 ### Architectural Design
-✅ We created the content that will be added to the pages
-✅ We created Figma designs
-[ ] Design the form in Figma
-[ ] Create a high-fidelity prototype
+- [x] We created the content that will be added to the pages
+- [x] We created Figma designs
+- [ ] Design the form in Figma
+- [ ] Create a high-fidelity prototype
 
 
 ### Build
-[ ] Create HTML
-[ ] Create CSS for mobile
-[ ] Create CSS for Desktop
+- [ ] Create HTML
+- [ ] Create CSS for mobile
+- [ ] Create CSS for Desktop
 
 
 ### Test
-[ ] Practice our knowledge about Test Driven Development
+- [ ] Practice our knowledge about Test Driven Development
 
 
 ### Deploy
-[ ] Deploy
+- [ ] Deploy
 
 ## Why is it important?
 - Unpaid work is mainly done by women around the world
