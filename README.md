@@ -1,7 +1,3 @@
-<p align="center"><img width=10% src="https://github.com/agcdtmr/fictional-umbrella/blob/main/images/home-desktop.png"></p>
-<p align="center"><img width=10% src="https://github.com/agcdtmr/fictional-umbrella/blob/main/images/home-mobile.png"></p>
-
-
 ## Description
 
 Our calculator, quantify the unpaid work of women. 
@@ -72,3 +68,9 @@ by [dadaniela](https://github.com/dadaniela)
 <!-- ## Files: -->
 
 <!-- ## Here are some ideas for additional features: -->
+
+
+<p align="center"><img width=40% src="https://github.com/agcdtmr/fictional-umbrella/blob/main/images/home-desktop.png"></p>
+<p align="center"><img width=40% src="https://github.com/agcdtmr/fictional-umbrella/blob/main/images/home-mobile.png"></p>
+
+
